@@ -1,4 +1,7 @@
 <!-- Soumili Nag GitHub Profile README -->
+<p align="center">
+  <img src="imgs/SoumiliNagBanner.png" alt="Soumili Nag - Senior Data Analyst Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Soumili Nag
 
