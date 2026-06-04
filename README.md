@@ -92,7 +92,6 @@ Transforming complex datasets into actionable business decisions through SQL, Py
   <a href="https://www.linkedin.com/in/soumilinag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:soumilinag494@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.naukri.com/mnjuser/profile" target="_blank"><img src="https://img.shields.io/badge/Naukri-teal?style=for-the-badge&logo=naukri"></a>
-  <a href="https://github.com/Mili99-lab" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
